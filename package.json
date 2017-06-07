@@ -1,0 +1,22 @@
+{
+  "name": "gobha-partials",
+  "version": "1.0.0",
+  "description": "Replace Handlebar partials in the files itself",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "fs-jetpack": "^1.0.0",
+    "fs-readdir-recursive": "^1.0.0",
+    "extend": "^3.0.1",
+    "handlebars": "^4.0.10"
+  },
+  "keywords": ["gobha", "metalsmith"],
+  "author": "Daviot <gobha@daviot.at>",
+  "license": "MIT"
+}
