@@ -1,11 +1,13 @@
 {
   "name": "gobha-partials",
-  "version": "1.0.0",
-  "description": "Replace Handlebar partials in the files itself",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
+  "version": "0.0.1",
+  "description": "Replace Handlebar partials in the files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daviot/gobha-partials.git"
   },
+  "main": "lib/index.js",
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
