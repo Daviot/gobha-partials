@@ -18,7 +18,10 @@
     "extend": "^3.0.1",
     "handlebars": "^4.0.10"
   },
-  "keywords": ["gobha", "metalsmith"],
+  "keywords": [
+    "gobha",
+    "metalsmith"
+  ],
   "author": "Daviot <gobha@daviot.at>",
   "license": "MIT"
 }
