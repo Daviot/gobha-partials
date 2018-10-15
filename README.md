@@ -1,6 +1,6 @@
 # gobha-partials
 
-A [Metalsmith](www.metalsmith.io) plugin to generate navigations in metalsmith from meta informations
+A [Metalsmith](www.metalsmith.io) plugin to use complex partials inside metalsmith
 
 ## Installation
 
